@@ -28,3 +28,5 @@ export default class Trafficlight extends React.Component{
 		</div>;
 	}
 }
+
+
